@@ -19,9 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   DiviSmart's real estate investing blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 excerpt_separator: "\n\n"
-url: "https://www.divismart.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: divismart
-
+url: "https://www.blog.divismart.com" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: America/New_York
 # Build settings
 markdown: kramdown
 theme: minima
