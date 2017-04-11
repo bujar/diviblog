@@ -4,7 +4,7 @@ title:  "Divismart - Revolutionizing Real Estate Investing"
 date:   2017-03-09 20:16:39 -0800
 categories: divismart investing
 ---
-DiviSmart is a company created to provide unique and value-added real estate analytics to the public domain at no cost.
+<b>DiviSmart is a company created to provide unique and value-added real estate analytics to the public domain at no cost.</b>
 
 We feel that the online real estate investment space is dominated by folks who want to take advantage of naive and unbeknownst amateurs and dreamers; pitching pricey investment seminars and strategies, or selling spreadsheet models, which ultimately doesn't benefit the consumer - or make them a better investor. What DiviSmart aims to do, is promote more transparency in this space. We believe institutionalized investing strategies and sophisticated modeling should come at zero cost to individuals who want to learn or improve their decision-making. With the DiviSmart platform, our goal is for users to no longer require a financial analytics background or spreadsheet skills in order to succeed as a real estate investor or professional.
 
