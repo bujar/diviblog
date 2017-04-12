@@ -10,9 +10,8 @@ To the amateur investor, breaking into real estate investing may seem like an in
 
 <!--more-->
 
-<center><img src="https://cdn.pixabay.com/photo/2012/11/20/17/33/cambridge-66714_960_720.jpg" width="500" border="0"></center>
+<img src="/assets/images/cambridge-66714_1280.jpg)" width="500" border="0">
 
-![My helpful screenshot]({{ site.url }}/assets/images/cambridge-66714_1280.jpg)
 
 Breaking into real estate investing is understandably intimidating; one must consider the location of the property, market price, future price stability, rental ability, taxes, remodeling and maintenance expenses, background of a tenant, or even eviction strategies - only to name a few. But the core of real estate investing is no different than any sort of equity or bond investment, which still relies on one of two underlying fundamental strategies: the dividend strategy and value appreciation strategy.
 
