@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+description: "test test1 test2 blog divismart"
 title:  "How Will Rising Interest Rates Effect the Average Real Estate Investor?"
 date:   2017-03-17 20:16:39 -0800
 categories: investing
