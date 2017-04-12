@@ -121,7 +121,8 @@
       <br><br>
       {{post.date | date: '%B %d, %Y' }}
       <br>
-      {{ post.excerpt }}...
+      {{ post.excerpt }}
+      <a href="{{ post.url }}">Read More</a>
     </li>
     <br><br>
   {% endfor %}
