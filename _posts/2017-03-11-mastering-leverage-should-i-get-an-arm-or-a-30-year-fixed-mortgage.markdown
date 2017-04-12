@@ -3,7 +3,6 @@ layout: post
 title:  "Mastering Leverage: Should I get an ARM or a 30-Year Fixed Mortgage?"
 date:   2017-03-11 20:16:39 -0800
 categories: investing
-excerpt_separator: <!--more-->
 ---
 Irrespective of strategy, securing cheap and affordable debt is probably the most pivotable aspect of your real estate investment. Of course, location is important, rental rate and purchase price is also important, but leveraging incorrectly will make or break an investment.
 

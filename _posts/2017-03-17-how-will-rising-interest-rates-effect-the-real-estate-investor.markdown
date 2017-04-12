@@ -3,7 +3,6 @@ layout: post
 title:  "How Will Rising Interest Rates Effect the Average Real Estate Investor?"
 date:   2017-03-17 20:16:39 -0800
 categories: investing
-excerpt_separator: <!--more-->
 ---
 We have all lived in a very comfortable environment of low-interest rates and quantitative easing/easy money policies for a number of years, and this has benefitted both home owners and ordinary real estate investors. However, interest rates can only remain so low before the market starts to overheat, and with a stronger economy, the Federal Reserve Bank ("Fed") will inevitably start to revert back to a "normalized" interest rate target.
 
