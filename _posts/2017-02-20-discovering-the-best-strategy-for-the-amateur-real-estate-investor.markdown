@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Discovering the Best strategy for the Amateur Real Estate Investor"
+title:  "Discovering the Best Strategy for the Amateur Real Estate Investor"
 date:   2017-02-20 20:16:39 -0800
 categories: investing
 excerpt_separator: <!--more-->
@@ -10,7 +10,7 @@ To the amateur investor, breaking into real estate investing may seem like an in
 
 <!--more-->
 
-<img src="/assets/images/cambridge-66714_1280.jpg" width="300">
+<img src="/assets/images/cambridge-66714_1280.jpg" width="300" style="float: right; margin: 0px 0px 15px 15px;" />
 
 Breaking into real estate investing is understandably intimidating; one must consider the location of the property, market price, future price stability, rental ability, taxes, remodeling and maintenance expenses, background of a tenant, or even eviction strategies - only to name a few. But the core of real estate investing is no different than any sort of equity or bond investment, which still relies on one of two underlying fundamental strategies: the dividend strategy and value appreciation strategy.
 
@@ -31,7 +31,7 @@ Value appreciation strategy actually takes many forms. Investors can purchase a 
 
 Versus a stable dividend strategy, investors are effectively making a bet on the market - like making a play on the future value of a home. Typically, in many metropolitan cities especially - say, SF and NYC - the rent is still not enough to cover the underlying expenses of a home, so investors have no choice but pray the future value goes up. This happens because (1) property prices are too high as more buyers compete and cash floods the housing market, and (2) the rental market is oversupplied which drives rents lower from competition.
 
-<h4>The BEST Strategy</h4>
+<h4>The <u>BEST</u> Strategy</h4>
 
 The needle in a haystack, or the cream of the crop, and ideal target for any investor is to find a property that can sustain positive cash flow AND sell for a profit in later years. That is a win-win and the best strategy of all, but requires extensive foresight and work to identify.
 
