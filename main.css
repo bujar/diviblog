@@ -271,7 +271,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 14px;
+  font-size: 25px;
   color: #828282; }
 
 .post-link {
@@ -295,7 +295,7 @@ pre {
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
-    font-size: 50px; }
+    font-size: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
         font-size: 28px; } }
