@@ -6,7 +6,7 @@ categories: investing
 excerpt_separator: <!--more-->
 ---
 
-<center><img src="https://cdn.pixabay.com/photo/2012/11/20/17/33/cambridge-66714_960_720.jpg" width="300" height="214" border="0"></center>
+<img src="https://cdn.pixabay.com/photo/2012/11/20/17/33/cambridge-66714_960_720.jpg" width="300" height="214" border="0">
 
 To the amateur investor, breaking into real estate investing may seem like an incredibly daunting challenge. In reality, real estate investing is probably one of the safest and most reliable forms of growing your money, and also an easy investing medium that anyone can easily pick up. Unlike equities, the real estate market is resilient and less volatile; and an investor doesn't need to crunch exotic numbers or - at least to a certain extent - take into account geopolitical or macroeconomic factors in their pre-investment analysis. True, there might be housing crisis concerns and interest rate risks, but at the end of the day, a real estate asset preserves incredible value if it can simply provide someone a home.
 
