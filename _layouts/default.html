@@ -118,10 +118,10 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}" style="font-size:200%; font-weight:bold;">{{ post.title }}</a>
+      <br><br>
+      {{post.date | date: '%B %d, %Y' }}
       <br>
-      {{post.date | date: '%B %d, %Y' }}}}
-      <br>
-      {{ post.excerpt }}
+      {{ post.excerpt }}...
     </li>
     <br><br>
   {% endfor %}
