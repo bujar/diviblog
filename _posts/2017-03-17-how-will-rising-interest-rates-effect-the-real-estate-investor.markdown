@@ -8,6 +8,8 @@ We have all lived in a very comfortable environment of low-interest rates and qu
 
 Going forward, the Fed will probably raise rates at about 25 bps (0.25%) per quarter. In 2017, their target was to raise rates at least 3 times, and with the latest March announcement, the wheel is already in motion, as the rates were raised from 0.75% to 1.00%. There will likely be 2 additional rate hikes this year.
 
+<center><img src="/assets/images/yellen-figure1-20160826.png" width="400"/></center>
+
 <h4>What does that mean exactly?</h4>
 
 By raising the federal fund rate, the effective benchmark rates of any mortgages will go up. Future mortgage rates will probably be even higher than they are currently, and may have a negative impact on any real estate investments as cost of funds increase - mostly those with ARMs or are looking into a mortgage in the future. The intelligent investor should try to lock in a lower interest rate now to take advantage of cheaper leverage costs before the prices go up.
