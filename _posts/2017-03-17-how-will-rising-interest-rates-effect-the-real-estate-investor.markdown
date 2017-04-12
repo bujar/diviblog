@@ -6,7 +6,7 @@ categories: investing
 ---
 We have all lived in a very comfortable environment of low-interest rates and quantitative easing/easy money policies for a number of years, and this has benefitted both home owners and ordinary real estate investors. However, interest rates can only remain so low before the market starts to overheat, and with a stronger economy, the Federal Reserve Bank ("Fed") will inevitably start to revert back to a "normalized" interest rate target.
 
-Going forward, the Fed will probably raise rates at about 25 bps (0.25%) per quarter. In 2017, their target was to raise rates at least 3 times, and with the latest March announcement, the wheel is already in motion, as the rates were raised from 0.75% to 1.00%. There will likely be 2 additional rate hikes this year.
+Going forward, the Fed will probably raise rates at about 25 bps (0.25%) per quarter. In 2017, their target was to raise rates at least 3 times, and with the latest March announcement, the wheel is already in motion, as the rates were raised from 0.75% to 1.00%. There will likely be 2 additional rate hikes this year. Take a look at the initial forecast from June 2016, most of the members making the decision were already leaning towards a rate hike!
 
 <center><img src="/assets/images/yellen-figure1-20160826.png"/></center>
 
