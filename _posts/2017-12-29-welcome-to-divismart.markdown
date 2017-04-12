@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Divismart - Revolutionizing Real Estate Investing"
-date:   March 9, 2017
+date:   2017-03-09
 categories: divismart investing
 ---
 <b>DiviSmart is a company created to provide unique and value-added real estate analytics to the public domain at no cost.</b>
