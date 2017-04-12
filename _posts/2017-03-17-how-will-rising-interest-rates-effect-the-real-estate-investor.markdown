@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "How Will Rising Interest Rates Effect the Average Real Estate Investor?"
 date:   2017-03-17 20:16:39 -0800
 categories: investing

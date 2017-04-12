@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Divismart - Revolutionizing Real Estate Investing"
 date:   2017-02-15
 categories: divismart investing

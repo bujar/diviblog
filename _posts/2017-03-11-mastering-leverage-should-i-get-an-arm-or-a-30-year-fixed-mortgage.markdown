@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Mastering Leverage: Should I get an ARM or a 30-Year Fixed Mortgage?"
 date:   2017-03-11 20:16:39 -0800
 categories: investing
