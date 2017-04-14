@@ -4,6 +4,7 @@ comments: true
 title:  "Discovering the Best Strategy for the Amateur Real Estate Investor"
 date:   2017-02-20 20:16:39 -0800
 categories: investing
+description: "DiviSmart reveals the underlying core strategies every real estate investor should know."
 excerpt_separator: <!--more-->
 ---
 
