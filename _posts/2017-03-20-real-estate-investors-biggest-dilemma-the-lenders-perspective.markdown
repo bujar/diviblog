@@ -15,14 +15,14 @@ Here are the things a lender will be typically care about, and more importantly,
 <ol>
 	<li><b>1. Liquidity (Debt-to-Income)</b> - Does the borrower have enough income to cover monthly debt service? </li>
 	<li><b>2. Sufficient Funds / Reserves</b> – Does the borrower have enough savings to pay for the down payment and reserves for future payments? </li>
-	<li><b>3. Credit Score</b> – Do the borrower pay their loans on time and carry a balance on their credit cards?</li>
+	<li><b>3. Credit Score</b> – Does the borrower pay their loans on time and carry a balance on their credit cards?</li>
 	<li><b>4. Employment History</b> – Have they demonstrated a solid employment history, and the ability to bring in cash in the future?</li>
 	<li><b>5. Collateral</b> – Will the property cover my losses in case the borrower defaults?</li>
 </ol>
 
 Liquidity, collateral, employment, and credit score are very important from a lender’s perspective. A lender wants to have a full grasp of their borrower’s capability to pay interest and principal on the loan, and they also want to make sure the underlying collateral (the real estate) can recover their losses. Thus, lenders do extensive analysis and verification of the borrower’s monthly income and debt repayment behaviors. In order to ensure they are covered from the worst-case scenario – i.e. a borrower walking away and leaving the property behind – the lender will need to be able to sell the asset and get their money back, hence real estate investors are almost always required to put a down payment.
 
-What most investors don’t realize is how much weight lenders typically put on a borrower’s reserves. Not only are real estate investors typically required to save approximately 6 months of future debt service on top of their down payment, they might also need to save enough for reserves on every mortgage that they might have. For real estate investors out there looking to get multiple mortgages to build your portfolio, consider this point closely and work with your lender to see how much reserves you need!
+What most investors don’t realize is how much weight lenders typically put on a borrower’s reserves. <b>Not only are real estate investors typically required to save approximately 6 months of future debt service on top of their down payment, they might also need to save enough for reserves on every mortgage that they might have.</b> For real estate investors out there looking to get multiple mortgages to build your portfolio, consider this point closely and work with your lender to see how much reserves you need!
 
 Real estate investors who can fully understand these points should have no trouble paving a path to financial freedom. 
 
