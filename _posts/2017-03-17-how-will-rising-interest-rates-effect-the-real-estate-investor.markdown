@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-description: "test test1 test2 blog divismart"
+description: "The Federal Reserve is raising rates throughout 2017 and in 2018. How will this effect the average real estate investor. DiviSmart does an in-depth analysis on how rising interest rates will effect the housing market, and how investors can hedge."
 title:  "How Will Rising Interest Rates Effect the Average Real Estate Investor?"
 date:   2017-03-17 20:16:39 -0800
 categories: investing

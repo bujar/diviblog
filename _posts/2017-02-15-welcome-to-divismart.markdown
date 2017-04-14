@@ -3,7 +3,8 @@ layout: post
 comments: true
 title:  "Divismart - Revolutionizing Real Estate Investing"
 date:   2017-02-15
-categories: divismart investing
+categories: investing
+description: "Investing in real estate seems incredibly hard, but it really isn't. DiviSmart is here to help anyone interested with a steady supply of information and free deal analysis. DiviSmart is a game changer in an expensive industry. Check us out!"
 excerpt_separator: <!--more-->
 ---
 

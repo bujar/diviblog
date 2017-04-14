@@ -4,6 +4,7 @@ comments: true
 title:  "Mastering Leverage: Should I get an ARM or a 30-Year Fixed Mortgage?"
 date:   2017-03-11 20:16:39 -0800
 categories: investing
+description: "Leverage and financing in real estate are keys to a successful investment. DiviSmart explores and analyzes the difference between an adjustable rate mortgage (ARM) versus an ordinary 30-Year fixed mortgage."
 ---
 Irrespective of strategy, securing cheap and affordable debt is probably the most pivotable aspect of your real estate investment. Of course, location is important, rental rate and purchase price is also important, but leveraging incorrectly will make or break an investment.
 
