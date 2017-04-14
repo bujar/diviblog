@@ -10,6 +10,9 @@ The type of financing a real estate investor obtains will probably make or break
 
 Here are the things a lender will be typically care about, and more importantly, what any real estate investor should consider before reaching out to a lender for financing. Which one do you think is the most important?
 
+<img src="/assets/images/euro-870757_640.jpg" width="400" style="float: right; margin: 0px 0px 15px 15px;" />
+
+<br>
 <ul>
 	<li><b>Liquidity (DTI)</b> - Does the borrower have enough income to cover monthly debt service? </li>
 	<li><b>Sufficient Funds / Reserves</b> – Does the borrower have enough savings to pay for the down payment and reserves for future payments? </li>
@@ -18,8 +21,7 @@ Here are the things a lender will be typically care about, and more importantly,
 	<li><b>Collateral</b> – Will the property cover my losses in case the borrower defaults?</li>
 
 </ul>
-
-<img src="/assets/images/euro-870757_640.jpg" width="400" style="float: right; margin: 0px 0px 15px 15px;" />
+<br>
 
 Liquidity, collateral, employment, and credit score are very important from a lender’s perspective. A lender wants to have a full grasp of their borrower’s capability to pay interest and principal on the loan, and they also want to make sure the underlying collateral (the real estate) can recover their losses. Thus, lenders do extensive analysis and verification of the borrower’s monthly income and debt repayment behaviors. In order to ensure they are covered from the worst-case scenario – i.e. a borrower walking away and leaving the property behind – the lender will need to be able to sell the asset and get their money back, hence real estate investors are almost always required to put a down payment.
 
@@ -27,4 +29,14 @@ What most investors don’t realize is how much weight lenders typically put on 
 
 Real estate investors who can fully understand these points should have no trouble paving a path to financial freedom. 
 
-
+<style>
+ul { 
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+}
+</style>
