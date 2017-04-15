@@ -6,9 +6,9 @@ categories: financing
 description: "DiviSmart reveals the underlying core strategies every real estate investor should know. Lending is critical to a real estate investor's success. DiviSmart carefully outlines the fundamentals every borrower should consider before seeking financing."
 ---
 
-The type of financing a real estate investor obtains will probably make or break their investment. Poor leverage decisions can tangle an investor in even more debt and turn a positive investment experience sour. One of the biggest problems that many investors have – either starting out or experienced – is not properly understanding a lender’s perspective, which in turn reduces the chances of getting a loan.
-
 <img src="/assets/images/euro-870757_640.jpg" width="400" style="float: right; margin: 0px 0px 15px 15px;" />
+
+The type of financing a real estate investor obtains will probably make or break their investment. Poor leverage decisions can tangle an investor in even more debt and turn a positive investment experience sour. One of the biggest problems that many investors have – either starting out or experienced – is not properly understanding a lender’s perspective, which in turn reduces the chances of getting a loan.
 
 Here are the things a lender will be typically care about, and more importantly, what any real estate investor should consider before reaching out to a lender for financing. Which one do you think is the most important?
 
