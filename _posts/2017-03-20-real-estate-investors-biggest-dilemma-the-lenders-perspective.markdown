@@ -11,11 +11,11 @@ The type of financing a real estate investor obtains will probably make or break
 Here are the things a lender will be typically care about, and more importantly, what any real estate investor should consider before reaching out to a lender for financing. Which one do you think is the most important?
 
 <ol>
-	<li><b>1. Liquidity (Debt-to-Income)</b> - Does the borrower have enough income to cover monthly debt service? </li>
-	<li><b>2. Sufficient Funds / Reserves</b> – Does the borrower have enough savings to pay for the down payment and reserves for future payments? </li>
-	<li><b>3. Credit Score</b> – Does the borrower pay their loans on time and carry a balance on their credit cards?</li>
-	<li><b>4. Employment History</b> – Have they demonstrated a solid employment history, and the ability to bring in cash in the future?</li>
-	<li><b>5. Collateral</b> – Will the property cover my losses in case the borrower defaults?</li>
+	<li><b>1.  Liquidity (Debt-to-Income)</b></li>
+	<li><b>2.  Sufficient Funds / Reserves</b></li>
+	<li><b>3.  Credit Score</b></li>
+	<li><b>4.  Employment History</b></li>
+	<li><b>5.  Collateral</b></li>
 </ol>
 
 <img src="/assets/images/euro-870757_640.jpg" width="400" style="float: right; margin: 0px 0px 15px 15px;" />
