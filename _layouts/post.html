@@ -93,13 +93,13 @@
 
 <header>
   <h1>{{ page.title }}</h1>
-  <center><p>{{page.date | date: '%B %d, %Y' }}</p></center>
 </header>
 
-<br><br>
+<br>
 <div class="row">
 <div class="col s6 offset-s3">
 <ul>
+<p style="font-size:85%;">{{page.date | date: '%B %d, %Y' }}</p>
   {{content}}
 </ul>
 
