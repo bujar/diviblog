@@ -92,8 +92,9 @@
 
 
 <div class="header-custom">
-
 </div>
+
+<img src="/assets/images/pexels-photo-29410.jpg" width="400" style="float: center;" />
 
 <br><br><br>
 <div class="row">
@@ -102,8 +103,8 @@
   {% for post in site.posts %}
   <br>
     <li>
-      <Center><a href="{{ post.url }}" style="font-size:165%;line-height:100%;">{{ post.title }}</a></Center>
-      <center><p style="font-size:85%;line-height:100%;">{{post.date | date: '%B %d, %Y' }}</p></center>
+      <Center><a href="{{ post.url }}" style="font-size:165;">{{ post.title }}</a></Center>
+      <center><p style="font-size:85%;">{{post.date | date: '%B %d, %Y' }}</p></center>
       {{ post.excerpt }}
       
     </li>
