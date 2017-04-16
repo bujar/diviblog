@@ -117,7 +117,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}" style="font-size:200%; font-weight:bold;">{{ post.title }}</a>
+      <a href="{{ post.url }}" style="font-size:150%; font-weight:bold;">{{ post.title }}</a>
       <br><br>
       <b>{{post.date | date: '%B %d, %Y' }}</b>
       <br>
@@ -127,6 +127,7 @@
     <br><br>
   {% endfor %}
 </ul>
+--
 </div></div>
     <footer class="page-footer" style="background-color:#1b232c;">
       <div class="row" style="padding:0% 10% 0% 10%">
