@@ -10,7 +10,7 @@ We have all lived in a very comfortable environment of low-interest rates and qu
 
 Going forward, the Fed will probably raise rates at about 25 bps (0.25%) per quarter. In 2017, their target was to raise rates at least 3 times, and with the latest March announcement, the wheel is already in motion, as the rates were raised from 0.75% to 1.00%. There will likely be 2 additional rate hikes this year. Take a look at the initial forecast from June 2016, most of the members making the decision were already leaning towards a rate hike!
 
-<center><img src="/assets/images/yellen-figure1-20160826.png"/></center>
+<center><img src="/assets/images/3.17.17/yellen-figure1-20160826.png"/></center>
 
 <h4>What does that mean exactly?</h4>
 
