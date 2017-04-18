@@ -19,7 +19,7 @@ NYC is undoubtedly one of the largest cities in the world, so purchasing a real 
 The NYC housing market has been very hot for the last decade.  With a rising population and international investors seeking opportunities, the demand for housing has never been higher and so have home values. The disadvantage to higher housing prices is the amount of initial capital needed for a real estate investment. A 20% down payment on a condo in Brooklyn is probably much higher than one for 3-bedroom single-family house in Columbus, Ohio. Yet, both places can probably fetch $1,500 per month in rent, but the initial cost of investment is much higher in NYC.
 
 <figure style="float: right;">
-<img src="/assets/images/3.20.17/rent-stabilization.png" width="400" />
+<img src="/assets/images/3.20.17/rent-stabilization.png" width="300" />
 <figcaption><i>Source: Naked Apartments</i></figcaption>
 </figure>
 
