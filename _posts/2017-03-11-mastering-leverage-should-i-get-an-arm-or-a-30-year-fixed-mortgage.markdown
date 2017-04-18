@@ -12,17 +12,21 @@ As an amateur investor, one of my earliest mistakes was not understanding the di
 
 Despite getting 4.00% APR on an investment property - which is a feat in itself - I could've gotten a 7/1 ARM or a 5/1 ARM that will only be about 2.00-2.50% APR. This will bring down my mortgage at around $100-$200 on a monthly basis, meaning I can make an extra $1,200-$2,400/year! 
 
+<figure style="float: right;">
+<img src="/assets/images/3.11.17/mortgage01-lg.jpg" width="400" />
+</figure>
+
 For those who don't know what an ARM is, you effectively fix your APR at a really low "teaser" rate that is always lower than a fixed-mortgage rate. After 5 or 7 years, the interest rate would float depending on a pre-agreed margin and underlying benchmark rate (1Y WSJ Libor, 10-year US Treasuries, etc.). The term "adjustable" means that your interest rate would adjust to a new rate after your fixed period or "teaser period" is over; and every year thereafter it would be readjusted annually. The product has a designated cap and floor that is also pre-agreed with the bank, so don't expect to be paying 0% or 20% APR, but there is a possibility to pay lower than your teaser rate when it adjusts.
 
 Most people don't realize this, but the amortization schedule for an ARM and a 30Y fixed is roughly the same; meaning you still amortize over a 30 year schedule. If that is the case, and your investment horizon is short, why bother paying more than you need to? At the end of your teaser period, you can: (1) stick with adjusting if the benchmark rate is low, or (2) refi- and get a new ARM (will still beat the 30Y rate at that point).
 
-<h4>What about the interest rate risk?</h4>
+<p style="font-size:150%;">What about the interest rate risk?</p>
 
 My investment horizon is always between 5 and 7 years. My strategy is to exit earlier and free myself from all major expenses a house may need (i.e. roof or floors, etc.), so an ARM option is the perfect leverage option.
 
 Given the 5 and 7 year investment horizon, one could see the advantages of incredibly low cost of funds and more cash in the pocket!
 
-<h4>What crazy person would want to just pay interest?</h4>
+<p style="font-size:150%;">What crazy person would want to just pay interest?</p>
 
 If it was up to me, I would even do an IO which is effectively interest-only.
 
