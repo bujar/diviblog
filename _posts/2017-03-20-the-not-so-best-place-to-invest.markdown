@@ -12,9 +12,9 @@ DiviSmart has fielded many questions on where to get started as a real estate in
 
 NYC is undoubtedly one of the largest cities in the world, so purchasing a real estate investment there seems like a logical answer. A single-bedroom apartment can fetch anywhere between $1,500 - $4,500 in Brooklyn; not including the more prime locations in Manhattan and the waterfront areas of the other boroughs. Anywhere else in the world, $1,500 monthly rental is a pretty good motivation to try your real estate investment strategy, but here are the reasons why NYC (and likely most metropolitan areas) is harder to succeed for cash flow investors:
 
-<img src="/assets/images/3.20.17/nyc-median-value.jpg" width="600" />
-
 <p style="font-size:150%;">High startup costs.</p>
+
+<img src="/assets/images/3.20.17/nyc-median-value.jpg" width="600" />
 
 The NYC housing market has been very hot for the last decade.  With a rising population and international investors seeking opportunities, the demand for housing has never been higher and so have home values. The disadvantage to higher housing prices is the amount of initial capital needed for a real estate investment. A 20% down payment on a condo in Brooklyn is probably much higher than one for 3-bedroom single-family house in Columbus, Ohio. Yet, both places can probably fetch $1,500 per month in rent, but the initial cost of investment is much higher in NYC.
 
